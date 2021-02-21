@@ -233,7 +233,7 @@ const CSS = css`
   width: calc(100% - 200px);
   height: calc(100% - 75px);
   padding: 20px;
-  background: #121212;
+  background: #000000;
   padding-top: 70px;
   overflow-y: scroll;
 
@@ -258,7 +258,7 @@ const CSS = css`
   }
 
   table tr {
-    border-bottom: 1px solid #282828;
+    border-bottom: 1px solid #353535;
   }
 
   table td {
@@ -270,7 +270,7 @@ const CSS = css`
   }
 
   button {
-    background-color: #2bcc6c;
+    background-color: #FFFFFF;
     color: white;
     padding: 12.5px 30px;
     border-radius: 25px;

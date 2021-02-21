@@ -9,7 +9,7 @@ const Topbar = () => (
       position: absolute;
       top: 0;
       height: 50px;
-      background: #070707;
+      background: #000000;
       left: 200px;
       width: calc(100% - 200px);
       padding: 20px;

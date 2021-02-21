@@ -8,7 +8,7 @@
     "build": "webpack --config webpack.config.js",
     "postinstall": "npm run build"
   },
-  "author": "Daniel Zuzevich",
+  "author": "Jacob Olenick",
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.10",

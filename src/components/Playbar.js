@@ -88,7 +88,7 @@ const CSS = css`
   left: 0;
   width: 100%;
   height: 80px;
-  background: #282828;
+  background: #000000;
   z-index: 99;
   padding: 0 20px;
   display: flex;
@@ -137,7 +137,7 @@ const CSS = css`
 
       .bar {
         height: 100%;
-        background-color: rgb(0,0,0);
+        background-color: #FFFFFF;
       }
     }
   }
