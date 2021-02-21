@@ -15,7 +15,7 @@ const App = () => (
 const GlobalCSS = css`
   * {
     box-sizing: border-box;
-    font-family: 'Signika', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
 
   html,

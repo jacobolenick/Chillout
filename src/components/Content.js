@@ -242,7 +242,7 @@ const CSS = css`
   }
 
   ::-webkit-scrollbar-thumb {
-    background: #282828;
+    background: #00FF00;
   }
 
   .playlist-title {

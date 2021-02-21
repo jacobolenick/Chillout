@@ -4,7 +4,7 @@ import { css, jsx } from '@emotion/core'
 import { StoreContext } from './index'
 import Modal from './Modal'
 import Toast from './Toast'
-import logo from '../img/spotify-white.png'
+import logo from '../img/chill.svg'
 
 const Sidebar = () => {
   const [sidebarState, setState] = useState({
@@ -108,7 +108,7 @@ const CSS = css`
 
   li.library {
     cursor: unset;
-    color: #999;
+    color: #00FF00;
     text-transform: uppercase;
     font-weight: normal;
   }
@@ -116,6 +116,7 @@ const CSS = css`
   li.new-playlist {
     position: absolute;
     bottom: 80px;
+   
 
     i {
       margin-right: 5px;
@@ -127,7 +128,7 @@ const CSS = css`
     }
 
     span {
-      color: #999;
+      color: #00FF00;
       font-weight: 300;
     }
   }

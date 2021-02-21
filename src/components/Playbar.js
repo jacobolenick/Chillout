@@ -130,14 +130,14 @@ const CSS = css`
       width: 600px;
       height: 5px;
       position: relative;
-      background-color: #4f4f4f;
+      background-color: #00FF00;
       margin-top: 10px;
       display: inline-flex;
       margin: 10px 10px 0px 10px;
 
       .bar {
         height: 100%;
-        background-color: rgb(167 167 167);
+        background-color: rgb(0,0,0);
       }
     }
   }
@@ -146,6 +146,7 @@ const CSS = css`
     .fa-volume-up,
     .fa-volume-off {
       font-size: 20px;
+      color: #00FF00;
     }
   }
 `

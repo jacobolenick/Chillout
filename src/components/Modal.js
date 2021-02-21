@@ -29,7 +29,7 @@ const CSS = css`
   .modal-content {
     position: relative;
     width: 400px;
-    background: #211f27;
+    background: #00FF00;
     border-radius: 4px;
     padding: 25px;
   }
